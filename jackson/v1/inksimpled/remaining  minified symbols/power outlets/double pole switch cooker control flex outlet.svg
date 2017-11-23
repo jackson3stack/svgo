@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="double pole switch cooker control flex outlet.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="493"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg6" />
+  <path
+     id="path4"
+     d="m 482.82,207 c -49.60667,0 -99.21333,0 -148.82,0 -0.19175,-44.72162 0.38371,-89.48317 -0.28807,-134.179805 C 329.59609,57.699578 311.90969,62.930262 300.30993,62 209.02135,62.181622 117.69671,61.636673 26.430684,62.272617 11.552333,66.340335 17.044755,83.942372 16,95.340071 16.170168,186.63327 15.659584,277.958 16.25543,369.23148 19.831567,384.43947 37.587111,379.00435 48.940071,380 86.29338,380 123.64669,380 161,380 c 0.18561,19.83938 -0.3767,39.71805 0.29107,59.53209 4.02384,18.83135 32.81077,10.13854 27.70893,-7.70211 0,-17.27666 0,-34.55332 0,-51.82998 44.60957,-0.18095 89.25441,0.36168 133.84197,-0.27088 C 338.28409,376.097 333.1219,358.26962 334,346.70993 334,309.13995 334,271.56998 334,234 c 18.66667,0 37.33333,0 56,0 0.63979,17.25535 -1.3474,34.85818 1.12297,51.87422 7.55146,16.93174 31.98871,4.89521 26.87703,-11.50924 0,-13.45499 0,-26.90999 0,-40.36498 16.66667,0 33.33333,0 50,0 0.63979,17.25535 -1.3474,34.85818 1.12297,51.87422 7.55146,16.93174 31.98871,4.89521 26.87703,-11.50924 -0.60188,-19.54443 1.24275,-39.37284 -0.99344,-58.7292 C 493.17553,210.63954 488.21955,206.89559 482.82,207 Z M 307,352 c -87.66667,0 -175.33333,0 -263,0 0,-87.66667 0,-175.33333 0,-263 87.66667,0 175.33333,0 263,0 0,87.66667 0,175.33333 0,263 z M 22.6,256.14 c 155.71667,0 311.43333,0 467.15,0" />
+</svg>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="fire alarm hom sounder.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="640"
+     inkscape:window-height="493"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg4" />
+  <path
+     id="path2"
+     d="M 494.3,164.7 C 494.3957,154.44992 482.8927,148.85065 473.92236,151.8312 355.94824,164.29413 237.97412,176.75707 120,189.22 c -0.53562,-11.4535 1.19792,-23.20447 -1.12422,-34.42969 -6.02864,-12.92457 -21.631484,-7.73034 -32.893133,-8.80031 -18.969659,0.19444 -37.98149,-0.39338 -56.924151,0.30186 C 14.79673,149.83843 18.43601,166.08081 18,177.04935 c 0.18704,59.16289 -0.374432,118.36314 0.281348,177.50264 2.847622,14.15053 18.631564,11.2599 29.308667,11.44801 20.37215,-0.19312 40.785556,0.39017 61.131375,-0.29855 14.40172,-3.43472 10.89877,-19.7259 11.27861,-30.7508 0,-8.20355 0,-16.4071 0,-24.61065 78.81801,11.22547 157.65196,22.38052 236.46,33.65 4.70015,1.93614 11.53913,-2.5936 14.32737,-7.15775 C 411.42034,281.59597 452.56713,226.69551 492.88,171.25 c 1.01143,-2.0185 1.52272,-4.29422 1.42,-6.55 z M 93,204.66 c 0,44.44667 0,88.89333 0,133.34 -16,0 -32,0 -48,0 0,-54.66667 0,-109.33333 0,-164 16,0 32,0 48,0 0,10.22 0,20.44 0,30.66 z M 352.4,315.38 C 274.93333,304.36667 197.46667,293.35333 120,282.34 c 0,-21.74667 0,-43.49333 0,-65.24 110.21,-11.64333 220.42,-23.28667 330.63,-34.93 -32.7372,44.40287 -65.52346,88.80943 -98.23,133.21 z" />
+</svg>
