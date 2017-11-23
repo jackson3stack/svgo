@@ -14,6 +14,7 @@ def cmd_convert(files, kind):
    files = sorted(files)
    output = {}
    fail_dir = 'symbols_too_large'
+   
    for file in files:
       if not os.path.exists(file):
          continue
@@ -26,7 +27,6 @@ def cmd_convert(files, kind):
       if os.stat(file).st_size > 1536:
          click.echo('File too large for inclusion {0}'.format(file), err=True)
          fail_dir_extended = fail_dir+'/'+os.path.dirname(file)
-         print(fail_dir_extended)
          if not os.path.exists(fail_dir_extended):
              os.makedirs(fail_dir_extended)
          shutil.move(file, fail_dir+'/'+file)
